@@ -1,0 +1,43 @@
+body {
+    background-color: darkkhaki;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.tree-container {
+    border: 1px gray outset;
+    padding: 5px;
+    margin: 5px;
+    position: relative;  /* needed to set the absolute positions for the vote icons*/
+}
+
+.tree-image {
+    max-width: 80%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.credit {
+    font-size: smaller;
+    font-style: italic;
+}
+
+.vote-icon {
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    height: 50px;
+    width: 50px;
+}
+
+button {
+    font-size: larger;
+    background-color: darkslategray;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    margin: 4px;
+    border: none;
+}
+
+#button-container {
+    text-align: center;
+}

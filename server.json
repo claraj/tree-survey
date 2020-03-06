@@ -1,0 +1,33 @@
+{
+  "trees": [
+    {
+      "id": 1,
+      "name": "Oak",
+      "description": "The oak tree is a tree or shrub in the genus Quercus. There are about 600 living species. The common name \"oak (Oaks)\" may also appear in the names of species in related genera, such as Lithocarpus.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2019-07-03_Eik_in_Kerspel_Goor.jpg/800px-2019-07-03_Eik_in_Kerspel_Goor.jpg",
+        "credit": "Jürgen Eissink via Wikipedia"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Birch",
+      "description": "A birch tree is a thinleaved deciduous hardwood tree of the genus Betula. They are in the family Betulaceae, which also includes alders, hazels, and hornbeams.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Betula_pendula_001.jpg/448px-Betula_pendula_001.jpg",
+        "credit": "Willow via Wikipedia"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cedar",
+      "description": "Cedrus (common English name cedar) is a genus of coniferous trees in the plant family Pinaceae (subfamily Abietoideae). They are native to the mountains of the western Himalayas and the Mediterranean region, occurring at altitudes of 1,500–3,200 m in the Himalayas and 1,000–2,200 m in the Mediterranean.",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Moroccan_Atlantic_cedar.jpg/320px-Moroccan_Atlantic_cedar.jpg",
+        "credit": "Nikos D. Karabelas via Wikipedia"
+      }
+    }
+  ],
+  "votes": [
+  ]
+}
